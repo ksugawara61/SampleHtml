@@ -3,6 +3,20 @@ body {
     font-family: sans-serif;
 }
 
+/* ページヘッダー */
+#siteTitle {
+    font-size: 30px;
+    line-height: 1.2;
+    margin-bottom: 0;
+    font-family: 'Antic Didone', serif;
+}
+
+#catchcopy {
+    font-size: 12px;
+    line-height: 1.5;
+    margin-top: 5px;
+}
+
 p {
     font-size: 14px;
     line-height: 1.429;
